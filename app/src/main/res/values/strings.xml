@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">parcial_1_EmpresaAlimentaria</string>
+
+    <string-array name="Categorias">
+        <item>Lacteos</item>
+        <item>Carnes</item>
+        <item>Legumbres</item>
+        <item>Verduras</item>
+        <item>Frutas</item>
+        <item>Cereales</item>
+        <item>Aceites</item>
+    </string-array>
+
+</resources>
